@@ -1,0 +1,32 @@
+<object-stream>
+  <list>
+    <Country>
+      <name>Ireland</name>
+      <meps>
+        <Mep>
+          <MEPName>Sean kelly</MEPName>
+          <MEPEmail>sean.kelly@ep.europa.eu</MEPEmail>
+          <MEPPhone>874322</MEPPhone>
+          <MEPParty>
+            <partyName>fine gael</partyName>
+            <partyLeader>leo varadker</partyLeader>
+            <partyGenre>unknown</partyGenre>
+            <numLocalReps>60</numLocalReps>
+          </MEPParty>
+        </Mep>
+        <Mep>
+          <MEPName>Matt Carthy</MEPName>
+          <MEPEmail>matt.carthy@ep.europe.eu</MEPEmail>
+          <MEPPhone>2325654</MEPPhone>
+          <MEPParty reference="../../Mep/MEPParty"/>
+        </Mep>
+      </meps>
+      <noMEPs>60</noMEPs>
+    </Country>
+    <Country>
+      <name>UK</name>
+      <meps/>
+      <noMEPs>40</noMEPs>
+    </Country>
+  </list>
+</object-stream>

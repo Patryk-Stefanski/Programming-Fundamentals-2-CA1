@@ -1,0 +1,28 @@
+<object-stream>
+  <list>
+    <Party>
+      <partyName>fine gael</partyName>
+      <partyLeader>leo varadker</partyLeader>
+      <partyGenre>unknown</partyGenre>
+      <numLocalReps>60</numLocalReps>
+    </Party>
+    <Party>
+      <partyName>Fianna Fail</partyName>
+      <partyLeader>Michael Martin</partyLeader>
+      <partyGenre>CENTRE</partyGenre>
+      <numLocalReps>45</numLocalReps>
+    </Party>
+    <Party>
+      <partyName>sinn fein</partyName>
+      <partyLeader>mary-lou macdonald</partyLeader>
+      <partyGenre>LEFT</partyGenre>
+      <numLocalReps>45</numLocalReps>
+    </Party>
+    <Party>
+      <partyName>labour</partyName>
+      <partyLeader>brendan howlin</partyLeader>
+      <partyGenre>LEFT</partyGenre>
+      <numLocalReps>23</numLocalReps>
+    </Party>
+  </list>
+</object-stream>
